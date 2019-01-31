@@ -1,4 +1,4 @@
 ## Index of source code examples:
 
-\barcode reading in console
-\Read barcode From Subfolder
+\Barcode Reading In Console
+\Read Barcodes From Subfolder
