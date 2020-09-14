@@ -1,4 +1,10 @@
 ## Index of source code examples:
 
 \Barcode Reading In Console
+\Decode Australian Post Code
+\Filters to downscale Image
+\Image Preprocessing Filters
 \Read Barcodes From Subfolder
+\Set Barcode Decoding Profiles
+\Set Orientation and Read Rotated Barcodes
+\Split PDF Document By Found Barcode
